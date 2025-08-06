@@ -1,3 +1,6 @@
+This is a fork and can be deleted as soon as upstream qemu has updated the
+assertion https://lists.nongnu.org/archive/html/qemu-discuss/2025-08/msg00000.html.
+
 ===========
 QEMU README
 ===========
